@@ -105,6 +105,19 @@ This project is a NestJS-based backend system designed for robust **auditable ev
 
 ---
 
+### **Why Blockchain Audit System?**
+
+| **Feature**          | **Git Version Control**      | **Blockchain Audit System**       |
+| -------------------- | ---------------------------- | --------------------------------- |
+| **Primary Use Case** | Source code management       | Operational logging and auditing  |
+| **Immutability**     | SHA-1-based, mutable history | Tamper-proof, blockchain-anchored |
+| **Scope**            | File changes only            | Events, actions, and runtime logs |
+| **Security**         | Repository-level             | Cryptographic signatures, RBAC    |
+| **Compliance**       | Limited applicability        | Designed for compliance tracking  |
+| **Integration**      | Dev workflows only           | System-wide, real-time logging    |
+
+In conclusion, while Git excels at version control and collaborative development, your **blockchain audit system** provides a robust, secure, and compliance-oriented solution for operational logging and auditing, making it more suitable for software security operations.
+
 ## **Contributors**
 
 - **Otobong Peter** (Author)

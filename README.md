@@ -12,7 +12,7 @@ This project is a NestJS-based backend system designed for robust **auditable ev
 - **Blockchain Integration**: Uses LTO Network to anchor logs for immutability.
 - **Identity Management**: Supports user registration, role assignment, and approval workflows.
 - **HTTP Signature Authentication**: Ensures secure interactions using signed HTTP requests.
-- **Redis Integration**: Serves as the primary data store for user and log data.
+- **Redis Integration**: Serves as the primary data store for user and log data. (Would be replaced by postgres in the future).
 - **Swagger Documentation**: Provides easy-to-use API documentation.
 
 ---
